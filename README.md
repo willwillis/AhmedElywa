@@ -1,6 +1,6 @@
 # Hi, I am Ahmed   👋 :computer: 
 
-- I'm a full-stack developers 
+- I'm a full-stack developer 
 - I’m currently working on [@paljs](https://github.com/paljs). it's open-source project to help you bootstrap your next NodeJS, [@prisma](https://github.com/prisma), GraphQL, React project
 
 
